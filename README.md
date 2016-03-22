@@ -1,1 +1,1 @@
-# Stroop Effect analysis for udacity
+# Stroop Effect analysis
